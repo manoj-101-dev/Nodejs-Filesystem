@@ -22,7 +22,7 @@ Ensure Node.js is installed on your system. Then, follow these steps to run the 
 
 In the command prompt or powershell use the command
 
-`npm start or npm server.js`
+`npm start or npm index.js`
 
 To view the live site of the app click the beolw link.
 
