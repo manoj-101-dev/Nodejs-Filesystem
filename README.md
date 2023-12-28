@@ -5,7 +5,6 @@ This Node.js application performs file read and write operations using the 'fs' 
 ## Introduction
 
 The application is designed to create a text file with the current date and time as its content. It demonstrates the usage of Node.js's 'fs' module to perform file system operations such as creating directories, writing files, and handling errors.
-
 ## File Operations
 
 ### `readWriteFile` Function
